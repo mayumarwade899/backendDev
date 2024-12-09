@@ -1,0 +1,1 @@
+There is some issues in vs code, were we can't able to install tailwindCSS in react app
